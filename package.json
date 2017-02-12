@@ -1,0 +1,16 @@
+{
+  "name": "aeserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.4.1",
+    "restify": "^4.3.0",
+    "underscore": "^1.8.3"
+  }
+}
